@@ -1,0 +1,8 @@
+Loop=161 Atom=0 I/O_time=0.902918 Comp_time=9.281095 File=./Image_data/range(0,100.0),32768_objects,16_dims(2MB) Threads=1 Items=32768 Dims=16 Clusters=20
+Loop=236 Atom=0 I/O_time=1.576113 Comp_time=27.028240 File=./Image_data/range(0,100.0),65536_objects,16_dims(4MB) Threads=1 Items=65536 Dims=16 Clusters=20
+Loop=284 Atom=0 I/O_time=2.221391 Comp_time=65.033131 File=./Image_data/range(0,100.0),131072_objects,16_dims(8MB) Threads=1 Items=131072 Dims=16 Clusters=20
+Loop=185 Atom=0 I/O_time=4.314174 Comp_time=84.930908 File=./Image_data/range(0,100.0),262144_objects,16_dims(16MB) Threads=1 Items=262144 Dims=16 Clusters=20
+Loop=319 Atom=0 I/O_time=8.686343 Comp_time=291.471968 File=./Image_data/range(0,100.0),524288_objects,16_dims(32MB) Threads=1 Items=524288 Dims=16 Clusters=20
+Loop=338 Atom=0 I/O_time=17.344426 Comp_time=617.483066 File=./Image_data/range(0,100.0),1048576_objects,16_dims(64MB) Threads=1 Items=1048576 Dims=16 Clusters=20
+Loop=500 Atom=0 I/O_time=33.113813 Comp_time=1819.930415 File=./Image_data/range(0,100.0),2097152_objects,16_dims(128MB) Threads=1 Items=2097152 Dims=16 Clusters=20
+
